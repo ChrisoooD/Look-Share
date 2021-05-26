@@ -1,9 +1,9 @@
 # LookShare
 ## A project using docker-compose with Node and React.JS containers.
 ### Also uses a MySQL DBaaS like AWS RDS or GCloud CloudSQL.
-The porject Utlizes: 
-- Express Server
-- React.JS Client
+The project utilizes: 
+- the Express Server
+- the React.JS Client
 
 # This is a Collaborate Work of (All names are Github usernames)
 - Rocketboy314
