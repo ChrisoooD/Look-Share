@@ -6,5 +6,15 @@
 
 - React.JS Client
 
-# This is a Calborate Work of
+# This is a Collaborate Work of
+- Rocketboy314
+- Will-Dunn
+- n-wes
+- mariomanoptic
+- ChrisoooD
+- coledeters
+- MarkBrub
+
+## With a Big Help From our TA 
+- liamlows
 
