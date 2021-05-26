@@ -6,7 +6,7 @@
 
 - React.JS Client
 
-# This is a Collaborate Work of
+# This is a Collaborate Work of (All names are Github usernames)
 - Rocketboy314
 - Will-Dunn
 - n-wes
@@ -15,6 +15,6 @@
 - coledeters
 - MarkBrub
 
-## With a Big Help From our TA 
+## With a Big Help From our TA (All names are Github usernames)
 - liamlows
 
